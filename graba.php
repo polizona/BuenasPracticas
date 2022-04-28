@@ -1,8 +1,8 @@
 <?PHP
 	$hostname_localhost ="68.70.164.26";
-	$database_localhost ="polizona_XX";
-	$username_localhost ="polizona_XX";
-	$password_localhost ="tu_contraseña";
+	$database_localhost ="polizona_uno";
+	$username_localhost ="polizona_estudiante";
+	$password_localhost ="UPIICSAes#1";
         include("index.php"); 
 
 
